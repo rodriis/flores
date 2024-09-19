@@ -6,6 +6,11 @@
   box-sizing: border-box;
 }
 
+body {
+    overflow: scroll; /* Mantiene el desplazamiento */
+    scrollbar-width: none; /* Para navegadores Firefox */
+}
+
 body, html {
   margin: 0;
   padding: 0;
