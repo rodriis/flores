@@ -7,7 +7,7 @@
 }
 
 body {
-    overflow: scroll; /* Mantiene el desplazamiento */
+    overflow: hidden; /* Mantiene el desplazamiento */
     scrollbar-width: none; /* Para navegadores Firefox */
 }
 
